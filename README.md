@@ -5,6 +5,7 @@ This code uses the zlib library to compress an input file and write the compress
 ## To compile the c++ file
 
 ``` bash
+cd task
 g++ -o compress compress.cpp -lz
 
 ```
